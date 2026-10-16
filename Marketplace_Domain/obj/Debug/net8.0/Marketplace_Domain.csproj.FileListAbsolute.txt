@@ -1,0 +1,11 @@
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.AssemblyInfoInputs.cache
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.AssemblyInfo.cs
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.csproj.CoreCompileInputs.cache
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\bin\Debug\net8.0\Marketplace_Domain.deps.json
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\bin\Debug\net8.0\Marketplace_Domain.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\bin\Debug\net8.0\Marketplace_Domain.pdb
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\refint\Marketplace_Domain.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.pdb
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\ref\Marketplace_Domain.dll

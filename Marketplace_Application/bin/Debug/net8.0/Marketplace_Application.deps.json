@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Marketplace_Application/1.0.0": {
+        "dependencies": {
+          "Marketplace_Domain": "1.0.0"
+        },
+        "runtime": {
+          "Marketplace_Application.dll": {}
+        }
+      },
+      "Marketplace_Domain/1.0.0": {
+        "runtime": {
+          "Marketplace_Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Marketplace_Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Marketplace_Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
