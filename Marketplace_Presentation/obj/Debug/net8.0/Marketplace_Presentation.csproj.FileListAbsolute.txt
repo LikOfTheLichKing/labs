@@ -32,3 +32,7 @@ C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\obj\Debug\net8
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\obj\Debug\net8.0\Marketplace_Presentation.pdb
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\obj\Debug\net8.0\Marketplace_Presentation.genruntimeconfig.cache
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\obj\Debug\net8.0\ref\Marketplace_Presentation.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\obj\Debug\net8.0\Marketplace_Presentation.sourcelink.json

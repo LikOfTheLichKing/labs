@@ -9,3 +9,4 @@ C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Mar
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\refint\Marketplace_Domain.dll
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.pdb
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\ref\Marketplace_Domain.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Domain\obj\Debug\net8.0\Marketplace_Domain.sourcelink.json

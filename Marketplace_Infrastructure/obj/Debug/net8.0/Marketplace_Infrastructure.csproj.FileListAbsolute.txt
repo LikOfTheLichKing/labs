@@ -13,3 +13,6 @@ C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Infrastructure\obj\Debug\ne
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Infrastructure\obj\Debug\net8.0\refint\Marketplace_Infrastructure.dll
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Infrastructure\obj\Debug\net8.0\Marketplace_Infrastructure.pdb
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Infrastructure\obj\Debug\net8.0\ref\Marketplace_Infrastructure.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Infrastructure\bin\Debug\net8.0\Marketplace_Application.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Infrastructure\bin\Debug\net8.0\Marketplace_Application.pdb
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Infrastructure\obj\Debug\net8.0\Marketplace_Infrastructure.sourcelink.json
