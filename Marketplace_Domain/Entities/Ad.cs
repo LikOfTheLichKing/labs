@@ -7,6 +7,7 @@ namespace Marketplace.Domain.Entities;
 public class Ad
 {
     public Guid Id { get; private set; }
+    public Guid Title { get; private set; }
     public Guid SellerId { get; private set; }
     public AdContent Content { get; private set; }
     public Money Price { get; private set; }

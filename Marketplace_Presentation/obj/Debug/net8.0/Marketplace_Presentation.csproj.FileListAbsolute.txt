@@ -36,3 +36,11 @@ C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\obj\Debug\net8.0\Marketplace_Presentation.sourcelink.json
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MadBird\Desktop\Code\Query\labs\Marketplace_Presentation\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
